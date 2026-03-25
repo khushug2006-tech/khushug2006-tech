@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Khushi 👋
 
-<!--
-**khushug2006-tech/khushug2006-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 2nd Year IT Student  
+🚀 Aspiring Full Stack Developer  
+🌐 Building real-world web projects  
+📚 Currently learning JavaScript, React & Backend  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- HTML, CSS, JavaScript
+- React (Learning)
+- Node.js (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goals
+- Become a Full Stack Developer
+- Build impactful projects
+- Contribute to open source
+
+## 📫 Connect with me
+- LinkedIn: (www.linkedin.com/in/khushi-goswami-)
